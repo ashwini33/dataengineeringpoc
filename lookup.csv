@@ -1,3 +1,3 @@
 fileName,tableName,landingToStagingNotebook,stagingToCoreNotebook
 us.csv,us,landing,core
-United_States_COVID-19_Cases_and_Deaths_by_State_over_Time,usCases,landing,core
+United_States_COVID-19_Cases_and_Deaths_by_State_over_Time.csv,usCases,landing,core
